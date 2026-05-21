@@ -69,13 +69,27 @@ Atuo tanto no desenvolvimento de interfaces responsivas quanto na criação de A
 <div align="center">
 
 <img
-  height="180em"
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=renatoxdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renatoxdev&theme=tokyonight"
+/>
+
+<br/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renatoxdev&theme=tokyonight"
 />
 
 <img
-  height="180em"
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=renatoxdev&layout=compact&theme=tokyonight&hide_border=true"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renatoxdev&theme=tokyonight"
+/>
+
+<br/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=renatoxdev&theme=tokyonight"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=renatoxdev&theme=tokyonight&utcOffset=-3"
 />
 
 </div>
