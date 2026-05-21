@@ -1,6 +1,6 @@
 <div align="center">
 
-# Renato Marinho
+# Renato Noronha
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Renato!;Desenvolvedor+Full-stack;Python+%26+JavaScript;React+%7C+FastAPI+%7C+Node.js" alt="Typing SVG" />
 
@@ -70,12 +70,12 @@ Atuo tanto no desenvolvimento de interfaces responsivas quanto na criação de A
 
 <img
   height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=Renatoxdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
+  src="https://github-readme-stats.vercel.app/api?username=renatoxdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
 />
 
 <img
   height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renatoxdev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoxdev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
 />
 
 </div>
@@ -87,7 +87,7 @@ Atuo tanto no desenvolvimento de interfaces responsivas quanto na criação de A
 <div align="center">
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Renatoxdev&theme=tokyonight&hide_border=true"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=renatoxdev&theme=tokyonight&hide_border=true"
 />
 
 </div>
@@ -99,20 +99,21 @@ Atuo tanto no desenvolvimento de interfaces responsivas quanto na criação de A
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Renatoxdev/Renatoxdev/output/github-contribution-grid-snake-dark.svg"
-  />
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Renatoxdev/Renatoxdev/output/github-contribution-grid-snake.svg"
-  />
+<source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/renatoxdev/renatoxdev/output/github-contribution-grid-snake-dark.svg"
+/>
 
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Renatoxdev/Renatoxdev/output/github-contribution-grid-snake.svg"
-  />
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/renatoxdev/renatoxdev/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+  alt="github contribution grid snake animation"
+  src="https://raw.githubusercontent.com/renatoxdev/renatoxdev/output/github-contribution-grid-snake.svg"
+/>
 
 </picture>
 
@@ -137,7 +138,7 @@ Atuo tanto no desenvolvimento de interfaces responsivas quanto na criação de A
 <div align="center">
 
 <img
-  src="https://komarev.com/ghpvc/?username=Renatoxdev&color=58A6FF&style=for-the-badge"
+  src="https://komarev.com/ghpvc/?username=renatoxdev&color=58A6FF&style=for-the-badge"
 />
 
 </div>
