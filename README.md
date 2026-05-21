@@ -1,6 +1,6 @@
 <div align="center">
 
-# Renato Marinho
+# Renato Noronha
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Renato!;Desenvolvedor+Full-stack;Python+%26+JavaScript;React+%7C+FastAPI+%7C+Node.js" alt="Typing SVG" />
 
@@ -28,8 +28,13 @@ Atuo tanto no desenvolvimento de interfaces responsivas quanto na criação de A
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renato-noronha-aa1402176)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-seven-nu-3c68tjwtdr.vercel.app)
+<a href="https://linkedin.com/in/renato-noronha-aa1402176" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://portfolio-seven-nu-3c68tjwtdr.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 </div>
 
@@ -63,9 +68,15 @@ Atuo tanto no desenvolvimento de interfaces responsivas quanto na criação de A
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renatoxdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=Renatoxdev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renatoxdev&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800" />
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renatoxdev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"
+/>
 
 </div>
 
@@ -75,7 +86,9 @@ Atuo tanto no desenvolvimento de interfaces responsivas quanto na criação de A
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Renatoxdev&theme=tokyonight&hide_border=false" />
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Renatoxdev&theme=tokyonight&hide_border=true"
+/>
 
 </div>
 
@@ -123,6 +136,8 @@ Atuo tanto no desenvolvimento de interfaces responsivas quanto na criação de A
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Renatoxdev&color=58A6FF&style=for-the-badge" />
+<img
+  src="https://komarev.com/ghpvc/?username=Renatoxdev&color=58A6FF&style=for-the-badge"
+/>
 
 </div>
