@@ -2,7 +2,7 @@
 
 # Renato Marinho
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Renato!;Desenvolvedor+Full-stack;Python+%26+JavaScript;React+%7C+FastAPI+%7C+Node.js" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+o+Renato!;Desenvolvedor+Full-stack;Python+%26+JavaScript;React+%7C+FastAPI+%7C+Node.js;Hello%2C+I%27m+Renato!;Full-stack+Developer;Python+%26+JavaScript;React+%7C+FastAPI+%7C+Node.js" alt="Typing SVG" />
 
 <br/>
 <br/>
